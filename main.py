@@ -5,7 +5,7 @@ y = 1
 
 
 
-if x > y or y == 40:
+if x > y or y == 50:
   print("x => y")
   try:
     pip upgrade 
